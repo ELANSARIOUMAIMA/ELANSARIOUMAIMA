@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm EL ANSARI Oumaima</h1>
 <div align="center">
-  <img src="https://github.com/ELANSARIOUMAIMA/ELANSARIOUMAIMA/blob/main/Banner.png" alt="Banner">
+  <img src="https://github.com/ELANSARIOUMAIMA/ELANSARIOUMAIMA/blob/main/banner.png" alt="Banner">
 </div>
 <h3 align="center">A DevOps and Cloud Engineer from Morocco. Currently a second-year Software Engineering student at ENSIAS</h3>
 
