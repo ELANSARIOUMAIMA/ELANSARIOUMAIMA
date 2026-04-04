@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm EL ANSARI Oumaima</h1>
 <h3 align="center">A DevOps and Cloud Engineer from Morocco. Currently a second-year Software Engineering student at ENSIAS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elansarioumaima&label=Profile%20views&color=0e75b6&style=flat" alt="elansarioumaima" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ELANSARIOUMAIMA&label=Profile%20views&color=0e75b6&style=flat" alt="ELANSARIOUMAIMA" /> </p>
 
-- 🔭 I’m currently working on **a DevOps project on AWS — CI/CD with Jenkins, containerization with Docker & Kubernetes, and monitoring with Prometheus & Grafana**
+- 🔭 I'm currently working on **a DevOps project on AWS — CI/CD with Jenkins, containerization with Docker & Kubernetes, and monitoring with Prometheus & Grafana**
 
-- 🌱 I’m currently learning **DevSecOps and Cloud Devops**
+- 🌱 I'm currently learning **DevSecOps and Cloud DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ELANSARIOUMAIMA](https://github.com/ELANSARIOUMAIMA)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/elansarioumaima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elansarioumaima" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elansarioumaima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elansarioumaima" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
