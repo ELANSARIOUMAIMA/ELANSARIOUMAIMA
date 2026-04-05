@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ELANSARIOUMAIMA&" alt="elansarioumaima" /></p>
 ### 🔥My GitHub Contributions
-![Snake animation](https://github.com/ELANSARIOUMAIMA/ELANSARIOUMAIMA//blob/output/github-contribution-grid-main.svg)
+![Snake animation](https://github.com/ELANSARIOUMAIMA/ELANSARIOUMAIMA/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ### 🔥 GitHub Contribution Streak
