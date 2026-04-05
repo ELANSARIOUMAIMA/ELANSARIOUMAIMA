@@ -31,15 +31,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ELANSARIOUMAIMA&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ELANSARIOUMAIMA&" alt="elansarioumaima" /></p>
+
+
+
+
 ---
-### 🔥My GitHub Contributions
-
-
-
----
+### 🔥 My GitHub Contributions 
+![Snake animation](https://raw.githubusercontent.com/ELANSARIOUMAIMA/ELANSARIOUMAIMA/output/github-contribution-grid-snake.svg)
 ### 🔥 GitHub Contribution Streak
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
-![Snake animation](https://raw.githubusercontent.com/ELANSARIOUMAIMA/ELANSARIOUMAIMA/output/github-contribution-grid-snake.svg)
+
 
 
 ---
