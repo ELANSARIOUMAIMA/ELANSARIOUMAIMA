@@ -5,8 +5,8 @@
 <h3 align="center">A DevOps and Cloud Engineer from Morocco. Currently a second-year Software Engineering student at ENSIAS</h3>
 
 
-<!-- Developer at work -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<!-- Coding animation -->
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elansarioumaima&label=Profile%20views&color=0e75b6&style=flat" alt="elansarioumaima" /> </p>
