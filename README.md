@@ -3,21 +3,11 @@
   <img src="https://github.com/ELANSARIOUMAIMA/ELANSARIOUMAIMA/blob/main/banner.png" alt="Banner">
 </div>
 <h3 align="center">A DevOps and Cloud Engineer from Morocco. Currently a second-year Software Engineering student at ENSIAS</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<!-- Coding Boy -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<!-- Coding at desk -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<!-- Coding animation -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+
 <!-- Developer at work -->
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-<!-- Girl coding -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-<!-- Woman coding -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
-<!-- Woman at computer -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elansarioumaima&label=Profile%20views&color=0e75b6&style=flat" alt="elansarioumaima" /> </p>
 
