@@ -54,6 +54,6 @@
 
 
 🤝 Open to **Project Collaborations**   
-📧 Let’s chat: [ela](mailto:elansarioumaima2027@gmail.com)
+📧 Let’s chat: (mailto:elansarioumaima2027@gmail.com)
 
 
