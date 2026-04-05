@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">👋, I'm EL ANSARI Oumaima</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm EL ANSARI Oumaima</h1>
 <div align="center">
   <img src="https://github.com/ELANSARIOUMAIMA/ELANSARIOUMAIMA/blob/main/banner.png" alt="Banner">
 </div>
