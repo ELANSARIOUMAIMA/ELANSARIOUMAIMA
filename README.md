@@ -3,6 +3,7 @@
   <img src="https://github.com/ELANSARIOUMAIMA/ELANSARIOUMAIMA/blob/main/banner.png" alt="Banner">
 </div>
 <h3 align="center">A DevOps and Cloud Engineer from Morocco. Currently a second-year Software Engineering student at ENSIAS</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elansarioumaima&label=Profile%20views&color=0e75b6&style=flat" alt="elansarioumaima" /> </p>
 
