@@ -57,9 +57,6 @@
 ---
 ### 🔥 My GitHub Contributions 
 ![Snake animation](https://raw.githubusercontent.com/ELANSARIOUMAIMA/ELANSARIOUMAIMA/output/github-contribution-grid-snake.svg)
-### 🔥 GitHub Contribution Streak
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
-
 
 
 
