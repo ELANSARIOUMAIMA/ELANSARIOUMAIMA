@@ -103,6 +103,10 @@
 ---
 ### 🔥 My GitHub Contributions 
 ![Snake animation](https://raw.githubusercontent.com/ELANSARIOUMAIMA/ELANSARIOUMAIMA/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ELANSARIOUMAIMA&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution graph" />
+</p>
+
 
 
 
