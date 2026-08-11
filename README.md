@@ -2,7 +2,11 @@
 <div align="center">
   <img src="https://github.com/ELANSARIOUMAIMA/ELANSARIOUMAIMA/blob/main/banner.png" alt="Banner">
 </div>
-<h3 align="center">A DevOps and Cloud Engineer from Morocco. Currently a second-year Software Engineering student at ENSIAS</h3>
+<h3 align="center">A DevOps and Cloud Engineer from Morocco. Currently a third-year Software Engineering student at ENSIAS</h3>
+<a href="https://github.com/jaiswaladi246">
+  <img src="https://img.shields.io/github/followers/ELANSARIOUMAIMA?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+</a>
+
 
 
 <!-- Coding animation -->
