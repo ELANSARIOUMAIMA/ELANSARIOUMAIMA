@@ -4,10 +4,6 @@
   
 ### A DevOps and Cloud Engineer from Morocco. Currently a third-year Software Engineering student at ENSIAS
 
-<a href="https://www.youtube.com/@devopsshack">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=for-the-badge&logo=youtube&label=DevOps%20Shack&color=FF0000" alt="DevOps Shack YouTube subscribers" />
-</a>
-
 <a href="https://github.com/ELANSARIOUMAIMA">
   <img src="https://img.shields.io/github/followers/ELANSARIOUMAIMA?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
 </a>
