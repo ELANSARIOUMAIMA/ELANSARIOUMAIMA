@@ -37,6 +37,19 @@
   <img src="https://img.shields.io/badge/Role-DevOps%20%26%20Cloud%20Engineer-6f42c1?style=for-the-badge" alt="Role: DevOps and Cloud Engineer" />
  
 </p>
+### Currently Working On
+
+<p>
+  <img src="https://img.shields.io/badge/Compus360-181717?style=flat-square&logo=github&logoColor=white" alt="Compus360" />
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=docker&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/DevSecOps-DC143C?style=flat-square" alt="DevSecOps" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="GitOps" />
+  <img src="https://img.shields.io/badge/Observability-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Observability" />
+</p>
+
+> 🚀 Currently contributing to **Compus360**, working on cloud-native and DevOps practices, with a focus on automation, deployment, security, and observability.
 
 
 - 🔭 I’m currently working on **a DevOps projects on AWS — CI/CD with Jenkins, containerization with Docker & Kubernetes, and monitoring with Prometheus & Grafana**
