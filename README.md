@@ -10,7 +10,6 @@
 <a href="https://linkedin.com/in/elansarioumaima">
   <img src="https://img.shields.io/badge/LinkedIn-El Ansari%20Oumaima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<br><br>
 <img src="https://komarev.com/ghpvc/?username=ELANSARIOUMAIMA&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 <div align="center">
   <img src="https://github.com/ELANSARIOUMAIMA/ELANSARIOUMAIMA/blob/main/banner.png" alt="Banner">
