@@ -29,7 +29,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Name-EL ANSARI%20OUMAIMA-1f6feb?style=for-the-badge" alt="Name: EL ANSARI OUMAIMA" />
-  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-2ea44f?style=for-the-badge" alt="Experience: 1+ Years" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-2ea44f?style=for-the-badge" alt="Experience: 2+ Years" />
   <img src="https://img.shields.io/badge/Location-MOROCCO-ff9933?style=for-the-badge" alt="Location: MOROCCO" />
 </p>
 
