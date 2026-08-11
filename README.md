@@ -87,18 +87,9 @@
 
 ---
 
-
-
-
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ELANSARIOUMAIMA&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ELANSARIOUMAIMA&" alt="elansarioumaima" /></p>
-
-
-
 
 ---
 ### 🔥 My GitHub Contributions 
@@ -107,13 +98,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ELANSARIOUMAIMA&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution graph" />
 </p>
 
-
-
-
-
-### 👨‍💼 About Me & 🤝 Open to Collaborations
-
-
+### 🤝 Open to Collaborations
 🤝 Open to **Project Collaborations**   
 📧 Let’s chat: [elansarioumaima2027@gmail](mailto:elansarioumaima2027@gmail.com)
 
