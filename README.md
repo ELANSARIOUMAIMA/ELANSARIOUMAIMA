@@ -18,7 +18,6 @@
 <!-- Coding animation -->
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elansarioumaima&label=Profile%20views&color=0e75b6&style=flat" alt="elansarioumaima" /> </p>
 
 - 🔭 I’m currently working on **a DevOps projects on AWS — CI/CD with Jenkins, containerization with Docker & Kubernetes, and monitoring with Prometheus & Grafana**
 
