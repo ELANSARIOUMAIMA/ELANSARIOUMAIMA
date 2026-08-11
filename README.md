@@ -1,9 +1,5 @@
 <div align="center">
-# Hey Everyone 👋, I'm EL ANSARI Oumaima
-# Hey Everyone 👋, I'm Aditya Jaiswal
-
-
-
+## Hey Everyone 👋, I'm EL ANSARI Oumaima
 ### A DevOps and Cloud Engineer from Morocco. Currently a third-year Software Engineering student at ENSIAS
 
 <a href="https://www.youtube.com/@devopsshack">
