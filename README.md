@@ -74,19 +74,11 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,react,nodejs,express,flask,mongodb,mysql,oracle,postman,vscode,idea,figma&perline=12" alt="Development and automation technologies" /> </p>
   <p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-</p>
 </p>
 
-### DevOps Ecosystem
+### ⚙️ DevOps Ecosystem
 
 <p align="left">
   
