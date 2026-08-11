@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Role-DevOps%20%26%20Cloud%20Engineer-6f42c1?style=for-the-badge" alt="Role: DevOps and Cloud Engineer" />
  
 </p>
+
 ### Currently Working On
 
 <p>
@@ -62,30 +63,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-### Cloud, DevOps and Infrastructure
+### ☁️ Cloud, DevOps and Infrastructure
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,git,github,linux,bash&perline=12" alt="Cloud and DevOps technologies" />
 </p>
-### Development and Automation
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,mysql,vscode,idea,postman&perline=12" alt="Development and automation technologies" />
-</p>
+### 💻 Development and Automation
 
-### DevOps Ecosystem
-
-<p align="left">
-  
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />
-</p>
-
----
-
-<p align="left">
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,react,nodejs,express,flask,mongodb,mysql,oracle,postman,vscode,idea,figma&perline=12" alt="Development and automation technologies" /> </p>
+  <p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>-->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -114,6 +101,21 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <!--<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>-->
 </p>
+</p>
+
+### DevOps Ecosystem
+
+<p align="left">
+  
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />
+</p>
+
+---
+
+
 
 
 
