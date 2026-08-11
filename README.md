@@ -25,6 +25,19 @@
 <!-- Coding animation -->
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
+## 👨‍💻 About Me
+
+<p>
+  <img src="https://img.shields.io/badge/Name-EL ANSARI%20OUMAIMA-1f6feb?style=for-the-badge" alt="Name: EL ANSARI OUMAIMA" />
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-2ea44f?style=for-the-badge" alt="Experience: 1+ Years" />
+  <img src="https://img.shields.io/badge/Location-MOROCCO-ff9933?style=for-the-badge" alt="Location: MOROCCO" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Role-DevOps%20%26%20Cloud%20Engineer-6f42c1?style=for-the-badge" alt="Role: DevOps and Cloud Engineer" />
+ 
+</p>
+
 
 - 🔭 I’m currently working on **a DevOps projects on AWS — CI/CD with Jenkins, containerization with Docker & Kubernetes, and monitoring with Prometheus & Grafana**
 
@@ -32,7 +45,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ELANSARIOUMAIMA](https://github.com/ELANSARIOUMAIMA)
 
-- 📫 How to reach me **elansarioumaima2027@gmail.com**
+- 📧 How to reach me **elansarioumaima2027@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
