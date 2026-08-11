@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm EL ANSARI Oumaima</h1>
-<div align="center">
-  <img src="https://github.com/ELANSARIOUMAIMA/ELANSARIOUMAIMA/blob/main/banner.png" alt="Banner">
-</div>
+
 <h3 align="center">A DevOps and Cloud Engineer from Morocco. Currently a third-year Software Engineering student at ENSIAS</h3>
 <a href="https://github.com/ELANSARIOUMAIMA">
   <img src="https://img.shields.io/github/followers/ELANSARIOUMAIMA?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
@@ -10,6 +8,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-El Ansari%20Oumaima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=ELANSARIOUMAIMA&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<div align="center">
+  <img src="https://github.com/ELANSARIOUMAIMA/ELANSARIOUMAIMA/blob/main/banner.png" alt="Banner">
+</div>
 
 
 
