@@ -99,7 +99,7 @@
 </p>
 
 ### 🤝 Open to Collaborations
-🤝 Open to **Project Collaborations**   
+  
 📧 Let’s chat: [elansarioumaima2027@gmail](mailto:elansarioumaima2027@gmail.com)
 
 
