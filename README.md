@@ -58,14 +58,35 @@
 
 - 📧 How to reach me **elansarioumaima2027@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/elansarioumaima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elansarioumaima" height="30" width="40" /></a>
-</p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
+
+### Cloud, DevOps and Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,git,github,linux,bash&perline=12" alt="Cloud and DevOps technologies" />
+</p>
+### Development and Automation
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,mysql,vscode,idea,postman&perline=12" alt="Development and automation technologies" />
+</p>
+
+### DevOps Ecosystem
+
+<p align="left">
+  
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />
+</p>
+
+---
+
+
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
