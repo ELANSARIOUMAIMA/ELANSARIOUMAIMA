@@ -21,13 +21,14 @@
   
 </div>
 
----
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+
 
 ---
 
 ## 👨‍💻 About Me
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p>
   <img src="https://img.shields.io/badge/Name-EL ANSARI%20OUMAIMA-1f6feb?style=for-the-badge" alt="Name: EL ANSARI OUMAIMA" />
