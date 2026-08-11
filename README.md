@@ -11,23 +11,23 @@
   <img src="https://img.shields.io/badge/LinkedIn-El Ansari%20Oumaima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=ELANSARIOUMAIMA&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+
+
+
+
+---
+
 <div align="center">
+ 
   <img src="https://github.com/ELANSARIOUMAIMA/ELANSARIOUMAIMA/blob/main/banner.png" alt="Banner">
-</div>
-</div>
-
-
-
-
-
----
-
-<div align="center">
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+  
 </div>
 
 ---
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ## 👨‍💻 About Me
 
