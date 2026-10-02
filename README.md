@@ -19,6 +19,8 @@
 <div align="center">
  
   <img src="https://github.com/ELANSARIOUMAIMA/ELANSARIOUMAIMA/blob/main/banner.png" alt="Banner">
+  <img width="2056" height="765" alt="ChatGPT Image 2 oct  2026, 10_11_39" src="https://github.com/user-attachments/assets/efd78f79-3633-44aa-9621-29b2efb33c6f" />
+
   
 </div>
 
